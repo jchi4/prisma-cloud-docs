@@ -5,7 +5,7 @@ The following example lists incident filters.
 ```bash
 $ curl -k \
   -u <USER> \
-  https://console:8083/api/v1/audits/incidents/filters
+  https://console:8083/api/vVERSION/audits/incidents/filters
 ```
 
 Response:
